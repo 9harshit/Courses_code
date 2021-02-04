@@ -10,9 +10,13 @@ https://learnxinyminutes.com
 https://online-learning.harvard.edu/course/become-more-resilient-leader-turbulent-times?delta=0
 
 https://www.udemy.com/course/tensorflow-2-practical-advanced/
+
 https://www.udemy.com/course/ai-for-business/
+
 https://www.udemy.com/course/build-your-blockchain-az/
+
 https://www.udemy.com/course/mastering-top-visualization-techniques-in-tableau/
+
 https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/
 
 https://www.learningcrux.com/course/a-complete-guide-on-tensorflow-20-using-keras-api
@@ -21,7 +25,6 @@ https://www.learningcrux.com/course/a-complete-guide-on-tensorflow-20-using-kera
 https://storage.googleapis.com/public_release/FEC_dataset.zip
 
 https://machinelearningmastery.com/clustering-algorithms-with-python/
-
 
 
 https://course18.fast.ai
