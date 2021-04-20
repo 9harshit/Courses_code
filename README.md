@@ -37,3 +37,5 @@ https://www.coursera.org/learn/ai-deep-learning-capstone#syllabus
 
 
 https://www.udemy.com/course/modern-artificial-intelligence-applications/
+
+https://course.fast.ai
